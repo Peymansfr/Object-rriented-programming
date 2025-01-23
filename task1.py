@@ -14,5 +14,4 @@ from random import randint
 for indice in range(len(list_int)):
     list_int[indice] = randint(1,100)
 print(list_int)
-print("*"*50)
 
